@@ -36,7 +36,7 @@ The following sources were selected for this analysis:
 |-----------|-------|
 | Programming | Python |
 | Libraries | feedparser, pandas, os, datetime |
-| Visualization | AppSheet | Knime | Power BI
+| Visualization | AppSheet, Knime, Tableau |
 | Documentation | LaTeX (Overleaf) |
 
 ---
