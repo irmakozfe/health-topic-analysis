@@ -1,7 +1,8 @@
 
 import os
 import sys
-from datetime import datetime, UTC
+from datetime import datetime, timezone
+UTC = timezone.utc
 import feedparser
 import pandas as pd
 
