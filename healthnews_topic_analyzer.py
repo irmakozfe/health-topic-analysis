@@ -7,6 +7,7 @@ import feedparser
 import pandas as pd
 
 
+
 SOURCES = {
     "WHO": "https://www.who.int/rss-feeds/news-english.xml",
     "Spiegel Gesundheit": "https://www.spiegel.de/gesundheit/index.rss",
@@ -52,7 +53,7 @@ def detect_topic(text):
     for topic, keywords in TOPIC_KEYWORDS.items():
         if any(word in text for word in keywords):
             return topic
-    return "Other"
+    return "Other" 
 
 def save_csv(df: pd.DataFrame, out_dir: str = "."):
     os.makedirs(out_dir, exist_ok=True)
