@@ -1,38 +1,41 @@
 ﻿source,date,topic,count
-Spiegel Gesundheit,2025-11-01,Other,1
-Spiegel Gesundheit,2025-11-02,Covid,1
-Spiegel Gesundheit,2025-11-03,Other,2
-Spiegel Gesundheit,2025-11-05,Other,1
-Spiegel Gesundheit,2025-11-06,Other,1
-Spiegel Gesundheit,2025-11-08,Other,1
-Spiegel Gesundheit,2025-11-09,Other,1
-Spiegel Gesundheit,2025-11-11,Other,2
-Spiegel Gesundheit,2025-11-12,Other,2
-Spiegel Gesundheit,2025-11-13,Other,2
-Spiegel Gesundheit,2025-11-14,Other,2
-Spiegel Gesundheit,2025-11-15,Other,1
-Spiegel Gesundheit,2025-11-16,Other,1
-Spiegel Gesundheit,2025-11-18,Other,2
-Tagesschau Gesundheit,2025-11-17,Other,15
-Tagesschau Gesundheit,2025-11-18,Other,24
-Tagesschau Gesundheit,2025-11-18,Policy and system,1
-WHO,2025-09-25,Other,1
-WHO,2025-09-26,Vaccination,1
-WHO,2025-10-03,Depression,1
-WHO,2025-10-06,Pandemic,1
-WHO,2025-10-13,Other,2
-WHO,2025-10-13,Pandemic,1
-WHO,2025-10-13,Vaccination,1
-WHO,2025-10-14,Pandemic,1
-WHO,2025-10-17,Vaccination,1
-WHO,2025-10-19,Other,1
-WHO,2025-10-29,Nutrition and lifestyle,2
+Spiegel Gesundheit,2025-11-30,Other,3
+Spiegel Gesundheit,2025-12-01,Other,2
+Spiegel Gesundheit,2025-12-02,Other,1
+Spiegel Gesundheit,2025-12-03,Other,1
+Spiegel Gesundheit,2025-12-04,Depression,1
+Spiegel Gesundheit,2025-12-04,Other,1
+Spiegel Gesundheit,2025-12-05,Other,1
+Spiegel Gesundheit,2025-12-06,Other,1
+Spiegel Gesundheit,2025-12-11,Influenza,2
+Spiegel Gesundheit,2025-12-11,Other,2
+Spiegel Gesundheit,2025-12-13,Other,2
+Spiegel Gesundheit,2025-12-17,Depression,1
+Spiegel Gesundheit,2025-12-17,Other,1
+Spiegel Gesundheit,2025-12-18,Other,1
+Tagesschau Gesundheit,2025-12-21,Other,16
+Tagesschau Gesundheit,2025-12-22,Other,22
+Tagesschau Gesundheit,2025-12-22,Policy and system,2
 WHO,2025-10-31,Other,1
 WHO,2025-11-02,Vaccination,1
-WHO,2025-11-05,Other,2
+WHO,2025-11-05,Other,1
 WHO,2025-11-07,Other,1
 WHO,2025-11-07,Pandemic,1
 WHO,2025-11-12,Measles,1
 WHO,2025-11-12,Other,1
 WHO,2025-11-14,Other,3
 WHO,2025-11-17,Other,1
+WHO,2025-11-19,Depression,1
+WHO,2025-11-19,Other,1
+WHO,2025-11-26,Vaccination,1
+WHO,2025-11-28,Other,1
+WHO,2025-11-30,Vaccination,1
+WHO,2025-12-01,Nutrition and lifestyle,1
+WHO,2025-12-04,Other,1
+WHO,2025-12-05,Pandemic,1
+WHO,2025-12-06,Policy and system,1
+WHO,2025-12-11,Vaccination,1
+WHO,2025-12-16,Other,1
+WHO,2025-12-17,Other,1
+WHO,2025-12-18,Pandemic,1
+WHO,2025-12-19,Other,1
