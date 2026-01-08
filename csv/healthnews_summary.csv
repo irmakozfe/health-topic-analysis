@@ -1,9 +1,4 @@
 ﻿source,date,topic,count
-Spiegel Gesundheit,2025-11-30,Other,3
-Spiegel Gesundheit,2025-12-01,Other,2
-Spiegel Gesundheit,2025-12-02,Other,1
-Spiegel Gesundheit,2025-12-03,Other,1
-Spiegel Gesundheit,2025-12-04,Depression,1
 Spiegel Gesundheit,2025-12-04,Other,1
 Spiegel Gesundheit,2025-12-05,Other,1
 Spiegel Gesundheit,2025-12-06,Other,1
@@ -13,16 +8,19 @@ Spiegel Gesundheit,2025-12-13,Other,2
 Spiegel Gesundheit,2025-12-17,Depression,1
 Spiegel Gesundheit,2025-12-17,Other,1
 Spiegel Gesundheit,2025-12-18,Other,1
-Tagesschau Gesundheit,2025-12-21,Other,16
-Tagesschau Gesundheit,2025-12-22,Other,22
-Tagesschau Gesundheit,2025-12-22,Policy and system,2
-WHO,2025-10-31,Other,1
+Spiegel Gesundheit,2025-12-23,Other,1
+Spiegel Gesundheit,2025-12-25,Other,2
+Spiegel Gesundheit,2025-12-27,Other,2
+Spiegel Gesundheit,2025-12-28,Other,1
+Spiegel Gesundheit,2026-01-06,Other,1
+Spiegel Gesundheit,2026-01-08,Other,1
+Tagesschau Gesundheit,2026-01-07,Other,26
+Tagesschau Gesundheit,2026-01-08,Other,14
 WHO,2025-11-02,Vaccination,1
 WHO,2025-11-05,Other,1
 WHO,2025-11-07,Other,1
 WHO,2025-11-07,Pandemic,1
-WHO,2025-11-12,Measles,1
-WHO,2025-11-12,Other,1
+WHO,2025-11-12,Other,2
 WHO,2025-11-14,Other,3
 WHO,2025-11-17,Other,1
 WHO,2025-11-19,Depression,1
@@ -39,3 +37,4 @@ WHO,2025-12-16,Other,1
 WHO,2025-12-17,Other,1
 WHO,2025-12-18,Pandemic,1
 WHO,2025-12-19,Other,1
+WHO,2025-12-22,Other,1
